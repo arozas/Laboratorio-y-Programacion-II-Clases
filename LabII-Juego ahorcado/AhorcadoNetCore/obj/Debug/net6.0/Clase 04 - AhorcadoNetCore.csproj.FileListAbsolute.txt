@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\bin\Debug\net6.0\Clase 04 - AhorcadoNetCore.exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\bin\Debug\net6.0\Clase 04 - AhorcadoNetCore.deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\bin\Debug\net6.0\Clase 04 - AhorcadoNetCore.runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\bin\Debug\net6.0\Clase 04 - AhorcadoNetCore.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\bin\Debug\net6.0\Clase 04 - AhorcadoNetCore.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\obj\Debug\net6.0\Clase 04 - AhorcadoNetCore.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\obj\Debug\net6.0\Clase 04 - AhorcadoNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\obj\Debug\net6.0\Clase 04 - AhorcadoNetCore.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\obj\Debug\net6.0\Clase 04 - AhorcadoNetCore.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\obj\Debug\net6.0\Clase 04 - AhorcadoNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\obj\Debug\net6.0\Clase 04 - AhorcadoNetCore.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\obj\Debug\net6.0\refint\Clase 04 - AhorcadoNetCore.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\obj\Debug\net6.0\Clase 04 - AhorcadoNetCore.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\obj\Debug\net6.0\Clase 04 - AhorcadoNetCore.genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\LabII-Juego ahorcado\AhorcadoNetCore\obj\Debug\net6.0\ref\Clase 04 - AhorcadoNetCore.dll
