@@ -45,6 +45,9 @@ namespace Calse___04___Encapsulamiento
         {
             
             Console.WriteLine("Hello World!");
+            Gerente pruebaGerente = new Gerente();
+            Sucursal pruebaSucursal = new Sucursal(pruebaGerente,"Direccion",112233,20);
+            pruebaSucursal.AgregarStockAuto(new Auto());
         }
     }
 }

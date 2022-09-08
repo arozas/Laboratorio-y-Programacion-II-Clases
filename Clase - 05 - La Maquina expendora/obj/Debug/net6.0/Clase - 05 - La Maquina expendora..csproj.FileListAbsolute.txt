@@ -1,0 +1,18 @@
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\bin\Debug\net6.0\Clase - 05 - La Maquina expendora..exe
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\bin\Debug\net6.0\Clase - 05 - La Maquina expendora..deps.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\bin\Debug\net6.0\Clase - 05 - La Maquina expendora..runtimeconfig.json
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\bin\Debug\net6.0\Clase - 05 - La Maquina expendora..dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\bin\Debug\net6.0\Clase - 05 - La Maquina expendora..pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\Clase - 05 - La Maquina expendora..csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\Clase - 05 - La Maquina expendora..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\Clase - 05 - La Maquina expendora..AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\Clase - 05 - La Maquina expendora..AssemblyInfo.cs
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\Clase - 05 - La Maquina expendora..csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\Clase - 05 - La Maquina expendora..dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\refint\Clase - 05 - La Maquina expendora..dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\Clase - 05 - La Maquina expendora..pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\Clase - 05 - La Maquina expendora..genruntimeconfig.cache
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\ref\Clase - 05 - La Maquina expendora..dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\bin\Debug\net6.0\Biblioteca_UTN.dll
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\bin\Debug\net6.0\Biblioteca_UTN.pdb
+C:\Users\Alejandro\Documents\Laboratorio II\Laboratorio-y-Programacion-II-Clases\Clase - 05 - La Maquina expendora\obj\Debug\net6.0\Clase - 05 - La Maquina expendora..csproj.CopyComplete

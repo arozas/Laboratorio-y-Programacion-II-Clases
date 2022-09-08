@@ -11,11 +11,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 03", "Clase 03\Clase 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 03 - Biblioteca", "Clase 03 - Biblioteca\Clase 03 - Biblioteca.csproj", "{B911A888-04D3-4671-8F00-117CDCE9C2A7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase - 04 - Encapsulamiento", "Calse - 04 - Encapsulamiento\Clase - 04 - Encapsulamiento.csproj", "{E036315F-681E-4D09-9B54-0BCADBBFD897}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 04 - Encapsulamiento", "Calse - 04 - Encapsulamiento\Clase 04 - Encapsulamiento.csproj", "{E036315F-681E-4D09-9B54-0BCADBBFD897}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 04 - EjerEncap1", "EjerEncap1\EjerEncap1\Clase 04 - EjerEncap1.csproj", "{1C7648ED-1EA2-4336-8DC7-95A735E44F05}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clase 04 - AhorcadoNetCore", "LabII-Juego ahorcado\AhorcadoNetCore\Clase 04 - AhorcadoNetCore.csproj", "{CC7AF96D-95AF-4937-BD0D-B2F9D683F9FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 05 - Colecciones", "Clase 05 - Colecciones\Clase 05 - Colecciones.csproj", "{50ED8D03-4FDA-4D65-BDBD-628733D1438F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 05 - La Maquina expendora", "Clase - 05 - La Maquina expendora\Clase 05 - La Maquina expendora.csproj", "{6F6E431C-DE7F-4E77-AFFB-5B99C7D70BCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca_UTN", "..\Laboratorio-y-Programacion-II-Ejercicios\Biblioteca_UTN\Biblioteca_UTN.csproj", "{506B4970-FFB2-447C-9FE1-915C3D3C0662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 05 - Stacks", "Clase 05 - Stacks\Clase 05 - Stacks.csproj", "{A0B78F2C-1B8F-492B-AA5E-839483B5C9A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase 05 - Stacks - Se acabó la comida", "Clase 05 - Stacks - Se acabó la comida\Clase 05 - Stacks - Se acabó la comida.csproj", "{51AB6FDD-9B5D-44E4-A94F-B783888FEA1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +61,26 @@ Global
 		{CC7AF96D-95AF-4937-BD0D-B2F9D683F9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC7AF96D-95AF-4937-BD0D-B2F9D683F9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC7AF96D-95AF-4937-BD0D-B2F9D683F9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50ED8D03-4FDA-4D65-BDBD-628733D1438F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ED8D03-4FDA-4D65-BDBD-628733D1438F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ED8D03-4FDA-4D65-BDBD-628733D1438F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50ED8D03-4FDA-4D65-BDBD-628733D1438F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6E431C-DE7F-4E77-AFFB-5B99C7D70BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6E431C-DE7F-4E77-AFFB-5B99C7D70BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6E431C-DE7F-4E77-AFFB-5B99C7D70BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6E431C-DE7F-4E77-AFFB-5B99C7D70BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506B4970-FFB2-447C-9FE1-915C3D3C0662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506B4970-FFB2-447C-9FE1-915C3D3C0662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506B4970-FFB2-447C-9FE1-915C3D3C0662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506B4970-FFB2-447C-9FE1-915C3D3C0662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B78F2C-1B8F-492B-AA5E-839483B5C9A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B78F2C-1B8F-492B-AA5E-839483B5C9A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B78F2C-1B8F-492B-AA5E-839483B5C9A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B78F2C-1B8F-492B-AA5E-839483B5C9A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51AB6FDD-9B5D-44E4-A94F-B783888FEA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AB6FDD-9B5D-44E4-A94F-B783888FEA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AB6FDD-9B5D-44E4-A94F-B783888FEA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AB6FDD-9B5D-44E4-A94F-B783888FEA1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
